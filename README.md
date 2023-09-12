@@ -9,4 +9,4 @@ $ cd frontend-bootcamp-project-12
 $ npm ci
 ```
 
-[Demo Проекта](frontend-bootcamp-project-12-production-304e.up.railway.app/)
+[Slack app](https://frontend-bootcamp-project-12-production-304e.up.railway.app/)
